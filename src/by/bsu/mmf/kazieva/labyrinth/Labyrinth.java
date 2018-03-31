@@ -13,5 +13,4 @@ public interface Labyrinth {
 
     int findMinimumTime();
     int findMinimumTime(String fileName);
-    void printLabyrinth(int [][][]labyrinth);
 }
